@@ -12,4 +12,4 @@ Pertanyaan terkait playtesting:
 > - Menambahkan beberapa animasi pada catapult, fountain, maupun obstacles yang ada dalam game
 > - Menambahkan particle effect berupa daun berjatuhan pada level dan juga pada movement pemain
 5. Untuk masing-masing poin di jawaban pertanyaan 4, jabarkan secara singkat (1 - 3 kalimat) mengenai rencana kerja kamu untuk mengimplementasikan usulan tersebut.
-Untuk rencana yang saya jabarkan tersebut akan dikerjakan secara bertahap selama 1 bulan kedepan. Particle effect rencananya akan sama dengan tutorial 8 karena sudah cukup bagi kami hanya perlu diubah assetsnya saja. Lalu terkait animasi, kami bisa membuatnya ataupun mencarinya di itch.io atau website lain yang menyediakan asset gratis.
+> Untuk rencana yang saya jabarkan tersebut akan dikerjakan secara bertahap selama 1 bulan kedepan. Particle effect rencananya akan sama dengan tutorial 8 karena sudah cukup bagi kami hanya perlu diubah assetsnya saja. Lalu terkait animasi, kami bisa membuatnya ataupun mencarinya di itch.io atau website lain yang menyediakan asset gratis.
